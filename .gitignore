@@ -1,0 +1,19 @@
+# Ignore Jupyter Notebook Checkpoints (recommended)
+.ipynb_checkpoints
+**/.ipynb_checkpoints/*
+*-checkpoint.ipynb
+
+# Ignore Notebook Files (if using Jupytext to version .py instead)
+*.ipynb
+
+# Ignore Python Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore Virtual Environments (common practice)
+venv/
+env/
+.venv/   
