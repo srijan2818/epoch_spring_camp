@@ -1,0 +1,495 @@
+CircleName,RegionName,DivisionName,OfficeName,Pincode,OfficeType,Delivery,District,StateName,Latitude,Longitude
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Fatehpur Beri S.O,110074,PO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Satbari,110074,BO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi West Division,Mundela Kalan B.O,110073,BO,Delivery,SOUTH WEST,DELHI,28.609773,76.893434
+Delhi Circle,DivReportingCircle,New Delhi West Division,Mundka SO,110041,PO,Non Delivery,WEST,DELHI,28.682314,77.034937
+Delhi Circle,DivReportingCircle,New Delhi West Division,Matiala B.O,110059,BO,Non Delivery,WEST,DELHI,28.609409,77.054325
+Delhi Circle,DivReportingCircle,New Delhi West Division,Bakkarwala B.O,110041,BO,Delivery,WEST,DELHI,28.666501,77.016371
+Delhi Circle,DivReportingCircle,New Delhi West Division,Hirankudna B.O,110041,BO,Delivery,WEST,DELHI,28.673136,76.998405
+Delhi Circle,DivReportingCircle,New Delhi West Division,Mundka B.O,110041,BO,Non Delivery,WEST,DELHI,28.682314,77.034937
+Delhi Circle,DivReportingCircle,New Delhi West Division,Peeragarhi B.O,110087,BO,Non Delivery,WEST,DELHI,28.679745,77.092689
+Delhi Circle,DivReportingCircle,New Delhi West Division,Nilothi B.O,110041,BO,Delivery,WEST,DELHI,28.651181,77.059325
+Delhi Circle,DivReportingCircle,New Delhi West Division,Tikri Kalan B.O,110041,BO,Delivery,WEST,DELHI,28.682346,76.967187
+Delhi Circle,DivReportingCircle,New Delhi West Division,Jawala Heri B.O,110063,BO,Non Delivery,WEST,DELHI,28.668712,77.102909
+Delhi Circle,DivReportingCircle,New Delhi West Division,Ghuman Hera B.O,110073,BO,Delivery,SOUTH WEST,DELHI,28.531999,76.923973
+Delhi Circle,DivReportingCircle,New Delhi West Division,Khera Dabur B.O,110073,BO,Non Delivery,SOUTH WEST,DELHI,28.5838,76.936906
+Delhi Circle,DivReportingCircle,New Delhi West Division,Hastal Village B.O,110059,BO,Non Delivery,WEST,DELHI,28.637713,77.049026
+Delhi Circle,DivReportingCircle,New Delhi West Division,Jeevan Park B.O,110059,BO,Non Delivery,WEST,DELHI,28.616933,77.071833
+Delhi Circle,DivReportingCircle,New Delhi West Division,Nangloi   II B.O,110041,BO,Non Delivery,WEST,DELHI,28.682407,77.064631
+Delhi Circle,DivReportingCircle,New Delhi West Division,Ranhola B.O,110041,BO,Non Delivery,WEST,DELHI,28.656128,77.040683
+Delhi Circle,DivReportingCircle,New Delhi West Division,Neelwal BO,110041,BO,Delivery,WEST,DELHI,28.666378,76.979654
+Delhi Circle,DivReportingCircle,Delhi East Division,Sabhapur BO,110090,BO,Non Delivery,NORTH EAST,DELHI,28.7396,77.25291
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sahpurjat BO,110049,BO,Non Delivery,SOUTH,DELHI,28.55,77.21
+Delhi Circle,DivReportingCircle,New Delhi South Division,Jeevan Nagar BO,110014,BO,Non Delivery,SOUTH,DELHI,28.58,77.26
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Aya Nagar BO,110047,BO,Non Delivery,SOUTH,DELHI,28.4797777,77.1179444
+Delhi Circle,DivReportingCircle,New Delhi South Division,Deoli BO,110080,BO,Non Delivery,SOUTH,DELHI,28.5,77.23
+Delhi Circle,DivReportingCircle,New Delhi South Division,Madanpur Khadar BO,110076,BO,Non Delivery,SOUTH,DELHI,28.53,77.3
+Delhi Circle,DivReportingCircle,Delhi North Division,Kadipur BO,110036,BO,Delivery,NORTH,DELHI,28.7978055,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Mukhmelpur BO,110036,BO,Non Delivery,NORTH,DELHI,28.7978055,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Pooth Khurd BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Mungeshpur BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Jaunti BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Bankner BO,110040,BO,Delivery,NORTH WEST,DELHI,28.8508055,77.0880555
+Delhi Circle,DivReportingCircle,Delhi North Division,Rampura BO,110035,BO,Non Delivery,NORTH WEST,DELHI,28.6921111,77.1578611
+Delhi Circle,DivReportingCircle,Delhi North Division,Rithala BO,110085,BO,Non Delivery,NORTH WEST,DELHI,28.6933611,77.1713889
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Mandi BO,110047,BO,Non Delivery,SOUTH,DELHI,28.44,77.14
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Fatehpur Beri BO,110074,BO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Sanjay Colony Bhati Mines BO,110074,BO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Gadaipur BO,110030,BO,Non Delivery,SOUTH,DELHI,28.5176111,77.1793611
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Lado Sarai BO,110030,BO,Non Delivery,SOUTH,DELHI,28.52,77.18
+Delhi Circle,DivReportingCircle,New Delhi South West Division,CSKM School BO,110074,BO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Maidan Garhi BO,110068,BO,Non Delivery,SOUTH,DELHI,28.5012222,77.2003055
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Sultanpur BO,110030,BO,Non Delivery,SOUTH,DELHI,28.5176111,77.1793611
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Shahbad Mohammadpur BO,110061,BO,Non Delivery,NEW DELHI,DELHI,28.54,77.05
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Mahipalpur BO,110037,BO,Non Delivery,NEW DELHI,DELHI,28.54,77.12
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Masood Pur BO,110070,BO,Non Delivery,NEW DELHI,DELHI,28.52,77.15
+Delhi Circle,DivReportingCircle,New Delhi West Division,Jharoda Kalan B.O,110072,BO,Non Delivery,SOUTH WEST,DELHI,28.652588,76.956454
+Delhi Circle,DivReportingCircle,New Delhi West Division,Jhatikara B.O,110043,BO,Delivery,SOUTH WEST,DELHI,28.520905,76.964011
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Aps Colony BO,110010,BO,Non Delivery,NEW DELHI,DELHI,28.57,77.13
+Delhi Circle,DivReportingCircle,New Delhi West Division,Pandwala Kalan B.O,110043,BO,Delivery,SOUTH WEST,DELHI,28.564762,76.951343
+Delhi Circle,DivReportingCircle,New Delhi West Division,Surehra B.O,110043,BO,Delivery,SOUTH WEST,DELHI,28.597122,76.93787
+Delhi Circle,DivReportingCircle,New Delhi West Division,Dabri B.O,110045,BO,Non Delivery,SOUTH WEST,DELHI,28.609675,77.089542
+Delhi Circle,DivReportingCircle,New Delhi West Division,Nasirpur B.O,110045,BO,Delivery,SOUTH WEST,DELHI,28.597176,77.090783
+Delhi Circle,DivReportingCircle,New Delhi West Division,Dhulsiras B.O,110077,BO,Delivery,SOUTH WEST,DELHI,28.564173,77.041334
+Delhi Circle,DivReportingCircle,New Delhi West Division,Badusarai B.O,110071,BO,Non Delivery,SOUTH WEST,DELHI,28.529595,76.986468
+Delhi Circle,DivReportingCircle,New Delhi West Division,Amberhai B.O,110075,BO,Delivery,SOUTH WEST,DELHI,28.578231,77.04961
+Delhi Circle,DivReportingCircle,New Delhi West Division,Dichaun Kalan B.O,110043,BO,Delivery,SOUTH WEST,DELHI,28.641361,76.984018
+Delhi Circle,DivReportingCircle,New Delhi West Division,Dindarpur B.O,110043,BO,Non Delivery,SOUTH WEST,DELHI,28.592536,76.993827
+Delhi Circle,DivReportingCircle,New Delhi West Division,Mitraon B.O,110043,BO,Delivery,SOUTH WEST,DELHI,28.605614,76.944141
+Delhi Circle,DivReportingCircle,New Delhi West Division,Rewla Khanpur B.O,110043,BO,Delivery,SOUTH WEST,DELHI,28.564726,76.981441
+Delhi Circle,DivReportingCircle,New Delhi South Division,Pul Pahladpur BO,110044,BO,Non Delivery,SOUTH,DELHI,28.5,77.3
+Delhi Circle,DivReportingCircle,New Delhi West Division,Tilangpur Kotla B.O,110043,BO,Delivery,WEST,DELHI,28.646628,77.025715
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Jaunapur BO,110047,BO,Non Delivery,SOUTH,DELHI,28.46,77.15
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Satbari BO,110074,BO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Ghitorni BO,110030,BO,Non Delivery,SOUTH,DELHI,28.5176111,77.1793611
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Rajokari BO,110038,BO,Non Delivery,NEW DELHI,DELHI,28.52,77.09
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Nangal Dewat BO,110037,BO,Non Delivery,NEW DELHI,DELHI,28.5302777,77.1155277
+Delhi Circle,DivReportingCircle,New Delhi West Division,Kangan Heri B.O,110071,BO,Non Delivery,SOUTH WEST,DELHI,28.546186,76.990187
+Delhi Circle,DivReportingCircle,New Delhi West Division,Kakrola B.O,110078,BO,Delivery,SOUTH WEST,DELHI,28.598435,77.022021
+Delhi Circle,DivReportingCircle,New Delhi West Division,Papravat B.O,110043,BO,Delivery,SOUTH WEST,DELHI,28.58032,76.978203
+Delhi Circle,DivReportingCircle,New Delhi West Division,Bagdola B.O,110077,BO,Delivery,NEW DELHI,DELHI,28.571529,77.072995
+Delhi Circle,DivReportingCircle,New Delhi West Division,Barthal B.O,110077,BO,Delivery,SOUTH WEST,DELHI,28.542804,77.049144
+Delhi Circle,DivReportingCircle,New Delhi West Division,Baprola B.O,110043,BO,Non Delivery,WEST,DELHI,28.639783,77.008001
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Chandanhoola BO,110074,BO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South Division,Jaitpur BO,110044,BO,Non Delivery,SOUTH,DELHI,28.53,77.21
+Delhi Circle,DivReportingCircle,New Delhi South Division,Molarband BO,110044,BO,Non Delivery,SOUTH,DELHI,28.53,77.21
+Delhi Circle,DivReportingCircle,New Delhi South Division,Village Tugalkabad BO,110044,BO,Non Delivery,SOUTH,DELHI,28.51,77.26
+Delhi Circle,DivReportingCircle,New Delhi South Division,Lal Kuan BO,110044,BO,Non Delivery,SOUTH,DELHI,28.53,77.21
+Delhi Circle,DivReportingCircle,New Delhi South Division,Tehkhand BO,110020,BO,Non Delivery,SOUTH,DELHI,28.52,77.29
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Dera BO,110074,BO,Non Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South West Division,BHATI VILLAGE BO,110074,BO,Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,Delhi North Division,Shalamar BO,110088,BO,Delivery,NORTH,DELHI,28.6933611,77.1713889
+Delhi Circle,DivReportingCircle,Delhi North Division,Pooth Kalan BO,110086,BO,Delivery,NORTH WEST,DELHI,28.7016111,77.0797222
+Delhi Circle,DivReportingCircle,Delhi North Division,Nangal Poona BO,110036,BO,Non Delivery,NORTH,DELHI,28.7978055,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Palla BO,110036,BO,Delivery,NORTH,DELHI,28.7978055,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Punjab Khor BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Rani Khera BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,H S School,110081,BO,Delivery,NORTH WEST,DELHI,28.734916,77.005555
+Delhi Circle,DivReportingCircle,Delhi North Division,Lampur BO,110040,BO,Delivery,NORTH WEST,DELHI,28.8508055,77.0880555
+Delhi Circle,DivReportingCircle,Delhi North Division,Singhu BO,110040,BO,Delivery,NORTH WEST,DELHI,28.8508055,77.0880555
+Delhi Circle,DivReportingCircle,Delhi North Division,Tikri Khurd BO,110040,BO,Delivery,NORTH WEST,DELHI,28.8508055,77.0880555
+Delhi Circle,DivReportingCircle,Delhi North Division,Pehlad Pur BO,110042,BO,Delivery,NORTH,DELHI,28.72775,77.1636111
+Delhi Circle,DivReportingCircle,Delhi North Division,Siraspur BO,110042,BO,Delivery,NORTH,DELHI,28.7441111,77.145
+Delhi Circle,DivReportingCircle,Delhi North Division,Mukundpur Village,110042,BO,Delivery,NORTH,DELHI,28.744111,77.145
+Delhi Circle,DivReportingCircle,Delhi North Division,Begumpur BO,110086,BO,Delivery,NORTH WEST,DELHI,28.7016111,77.0797222
+Delhi Circle,DivReportingCircle,Delhi North Division,Jagatpur BO,110084,BO,Delivery,NORTH,DELHI,28.7572222,77.1977777
+Delhi Circle,DivReportingCircle,Delhi North Division,Hiranki BO,110036,BO,Non Delivery,NORTH,DELHI,28.7978055,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Khampur BO,110036,BO,Delivery,NORTH,DELHI,28.7978055,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Jat Khore BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Nangal Thakran BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Qutabagarh BO,110039,BO,Delivery,NORTH WEST,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,NEW Nathupura,110084,BO,Delivery,CENTRAL,DELHI,28.7572222,77.1977777
+Delhi Circle,DivReportingCircle,Delhi North Division,Gheora BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Karala BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Lad Pur BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Bhorgarh BO,110040,BO,Non Delivery,NORTH,DELHI,28.8508055,77.0880555
+Delhi Circle,DivReportingCircle,Delhi North Division,Budh Vihar BO,110086,BO,Non Delivery,NORTH WEST,DELHI,28.7016111,77.0797222
+Delhi Circle,DivReportingCircle,Delhi North Division,Prem Nagar BO,110086,BO,Delivery,NORTH WEST,DELHI,28.7016111,77.0797222
+Delhi Circle,DivReportingCircle,Delhi North Division,Jharoda Majraa BO,110084,BO,Delivery,NORTH,DELHI,28.7572222,77.1977777
+Delhi Circle,DivReportingCircle,Delhi North Division,Bakhtawar Pur BO,110036,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Bakoli BO,110036,BO,Non Delivery,NORTH,DELHI,28.7978055,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Auchandi BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Barwala BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Ghoga BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Hareveli BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Katewara BO,110039,BO,Delivery,NORTH,DELHI,28.7996944,77.0380555
+Delhi Circle,DivReportingCircle,Delhi North Division,Bhalaswa BO,110033,BO,Non Delivery,NORTH,DELHI,28.72775,77.1636111
+Delhi Circle,DivReportingCircle,Delhi North Division,Chand Pur BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Majra Dabas BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Mubarak Pur Dabas BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Nizampur BO,110081,BO,Delivery,NORTH WEST,DELHI,28.7349166,77.0055555
+Delhi Circle,DivReportingCircle,Delhi North Division,Khera Khurd BO,110082,BO,Delivery,NORTH,DELHI,28.7721666,77.119
+Delhi Circle,DivReportingCircle,Delhi North Division,Naya Bans BO,110082,BO,Delivery,NORTH,DELHI,28.7721666,77.119
+Delhi Circle,DivReportingCircle,Delhi North Division,Kanya Gurukul BO,110040,BO,Delivery,NORTH WEST,DELHI,28.8508055,77.0880555
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Safdarjung Enclave SO,110029,PO,Delivery,SOUTH,DELHI,28.6330278,77.1366389
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sect7 SO,110022,PO,Non Delivery,NEW DELHI,DELHI,28.5701944,77.1713056
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sect8 SO,110022,PO,Non Delivery,NEW DELHI,DELHI,28.5706389,77.1755
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sector  6 Postal SB SO,110022,PO,Non Delivery,NEW DELHI,DELHI,28.56,77.16
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R R Hospital SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.5845,77.1308056
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram West SO,110066,PO,Non Delivery,NEW DELHI,DELHI,28.5653056,77.17975
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sect4 SO,110022,PO,Non Delivery,NEW DELHI,DELHI,28.555,77.1810278
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sect5 SO,110022,PO,Delivery,NEW DELHI,DELHI,28.5643889,77.1678333
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Signal Enclave SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.5760278,77.1457778
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Vasant Kunj PktA SO,110070,PO,Non Delivery,NEW DELHI,DELHI,28.5139722,77.1655
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Vasant Kunj SO,110070,PO,Delivery,NEW DELHI,DELHI,28.5285,77.1578889
+Delhi Circle,DivReportingCircle,New Delhi West Division,District Court Complex Dwarka S.O,110075,PO,Non Delivery,SOUTH WEST,DELHI,28.580691,77.059203
+Delhi Circle,DivReportingCircle,New Delhi West Division,N.S.I.T. Dwarka S.O,110078,PO,Delivery,SOUTH WEST,DELHI,28.6102222,77.0376667
+Delhi Circle,DivReportingCircle,New Delhi West Division,Maya Puri S.O,110064,PO,Delivery,WEST,DELHI,28.6317778,77.1259167
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Technology Bhawan SO,110016,PO,Non Delivery,SOUTH,DELHI,28.5373056,77.1907222
+Delhi Circle,DivReportingCircle,Delhi North Division,Ashok Vihar HO,110052,HO,Delivery,NORTH,DELHI,28.6933611,77.1713889
+Delhi Circle,DivReportingCircle,New Delhi South West Division,T B Hospital SO,110030,PO,Non Delivery,SOUTH,DELHI,28.5303611,77.1889722
+Delhi Circle,DivReportingCircle,New Delhi South West Division,South Delhi Campus SO,110021,PO,Non Delivery,NEW DELHI,DELHI,28.5829722,77.1615
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Subroto Park SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.58325,77.1473611
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Vasant Vihar1 SO,110057,PO,Delivery,NEW DELHI,DELHI,28.568,77.1594167
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Vasant Vihar2 SO,110057,PO,Non Delivery,NEW DELHI,DELHI,28.5578889,77.15575
+Delhi Circle,DivReportingCircle,New Delhi West Division,Naraina Village S.O,110028,PO,Non Delivery,NEW DELHI,DELHI,28.6305,77.1349167
+Delhi Circle,DivReportingCircle,New Delhi West Division,Chhawla S.O,110071,PO,Delivery,SOUTH WEST,DELHI,28.6330278,77.1366389
+Delhi Circle,DivReportingCircle,New Delhi West Division,Dwarka Sec-6 S.O,110075,PO,Delivery,SOUTH WEST,DELHI,28.6068611,77.0415278
+Delhi Circle,DivReportingCircle,New Delhi West Division,Nangal Raya S.O,110046,PO,Delivery,NEW DELHI,DELHI,28.6110556,77.1088056
+Delhi Circle,DivReportingCircle,Delhi East Division,Maujpur SO,110053,PO,Non Delivery,NORTH EAST,DELHI,28.69225,77.2705556
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Sansad Marg HO,110001,HO,Non Delivery,NEW DELHI,DELHI,28.6225833,77.2127222
+Delhi Circle,DivReportingCircle,Delhi East Division,Krishna Nagar HO,110051,HO,Delivery,SHAHDARA,DELHI,28.6457222,77.2998056
+Delhi Circle,DivReportingCircle,New Delhi GPO Division,New Delhi GPO,110001,HO,Delivery,NEW DELHI,DELHI,28.6327,77.2233
+Delhi Circle,DivReportingCircle,Delhi North Division,Padam Nagar SO North Delhi,110007,PO,Non Delivery,NORTH,DELHI,28.667454,77.191701
+Delhi Circle,DivReportingCircle,Delhi North Division,Shakti Nagar SO North Delhi,110007,PO,Non Delivery,NORTH,DELHI,28.67993,77.194021
+Delhi Circle,DivReportingCircle,Delhi North Division,Avantika SO,110085,PO,Non Delivery,NORTH WEST,DELHI,28.707962,77.117033
+Delhi Circle,DivReportingCircle,Delhi North Division,Jahangir Puri A Block SO,110033,PO,Non Delivery,NORTH,DELHI,28.72775,77.1636111
+Delhi Circle,DivReportingCircle,Delhi North Division,Jahangir Puri D Block SO,110033,PO,Non Delivery,NORTH,DELHI,28.7305,77.1754722
+Delhi Circle,DivReportingCircle,Delhi North Division,Kanjhawla SO,110081,PO,Delivery,NORTH WEST,DELHI,28.7349167,77.0055556
+Delhi Circle,DivReportingCircle,Delhi North Division,Mangolpuri A Block SO,110083,PO,Non Delivery,NORTH WEST,DELHI,28.6938611,77.0936111
+Delhi Circle,DivReportingCircle,Delhi North Division,NSMandi SO,110033,PO,Delivery,NORTH,DELHI,28.7126944,77.1733333
+Delhi Circle,DivReportingCircle,Delhi North Division,Keshavpuram SO,110035,PO,Delivery,NORTH WEST,DELHI,28.6921111,77.1578611
+Delhi Circle,DivReportingCircle,Delhi North Division,Rani Bagh SO,110034,PO,Non Delivery,NORTH WEST,DELHI,28.68875,77.1321111
+Delhi Circle,DivReportingCircle,Delhi North Division,Patrachar Vidyalay SO,110054,PO,Non Delivery,CENTRAL,DELHI,28.7060278,77.2217778
+Delhi Circle,DivReportingCircle,Delhi East Division,Seelampur SO,110053,PO,Delivery,NORTH EAST,DELHI,28.6737778,77.2763889
+Delhi Circle,DivReportingCircle,Delhi East Division,Shahdara SO,110032,PO,Delivery,SHAHDARA,DELHI,28.6754167,77.2903611
+Delhi Circle,DivReportingCircle,Delhi East Division,Govind Pura SO,110051,PO,Non Delivery,EAST,DELHI,28.6453611,77.2871111
+Delhi Circle,DivReportingCircle,Delhi East Division,Mayur Vihar PhI SO,110091,PO,Non Delivery,EAST,DELHI,28.607,77.2945833
+Delhi Circle,DivReportingCircle,Delhi East Division,Patparganj SO,110091,PO,Delivery,EAST,DELHI,28.6143611,77.2900278
+Delhi Circle,DivReportingCircle,Delhi East Division,Rajgarh Colony SO,110031,PO,Non Delivery,EAST,DELHI,28.65925,77.2742222
+Delhi Circle,DivReportingCircle,Delhi East Division,Vishwas Nagar SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6668333,77.2946389
+Delhi Circle,DivReportingCircle,Delhi North Division,Jawahar Nagar SO North Delhi,110007,PO,Non Delivery,NORTH,DELHI,28.678498,77.207323
+Delhi Circle,DivReportingCircle,Delhi North Division,RCAO SO,110007,PO,Non Delivery,NORTH,DELHI,28.629917,77.239895
+Delhi Circle,DivReportingCircle,New Delhi South Division,Lodi Road HO,110003,HO,Delivery,SOUTH,DELHI,28.5896111,77.2191944
+Delhi Circle,DivReportingCircle,Delhi East Division,Raghubar Pura SO,110031,PO,Non Delivery,SHAHDARA,DELHI,28.6628333,77.2676944
+Delhi Circle,DivReportingCircle,New Delhi South Division,Kalkaji HO,110019,HO,Delivery,South East,DELHI,28.5431667,77.2576667
+Delhi Circle,DivReportingCircle,New Delhi West Division,Ramesh Nagar H.O,110015,HO,Delivery,WEST,DELHI,28.6498611,77.1306667
+Delhi Circle,DivReportingCircle,Delhi North Division,Rana Pratap Bagh SO,110007,PO,Non Delivery,NORTH,DELHI,28.6872778,77.1936111
+Delhi Circle,DivReportingCircle,Delhi North Division,Roshan Ara Road SO,110007,PO,Non Delivery,NORTH,DELHI,28.6689444,77.2061111
+Delhi Circle,DivReportingCircle,Delhi North Division,Alipur SO,110036,PO,Delivery,NORTH,DELHI,28.7978056,77.13
+Delhi Circle,DivReportingCircle,Delhi North Division,Delhi Engg College SO,110042,PO,Non Delivery,NORTH WEST,DELHI,28.7463611,77.1185278
+Delhi Circle,DivReportingCircle,Delhi North Division,DrMukerjee Nagar SO,110009,PO,Non Delivery,NORTH,DELHI,28.7108611,77.2158333
+Delhi Circle,DivReportingCircle,Delhi North Division,Ganeshpura SO,110035,PO,Non Delivery,NORTH WEST,DELHI,28.6754167,77.1655556
+Delhi Circle,DivReportingCircle,Delhi North Division,Gujranwala Colony SO,110009,PO,Non Delivery,NORTH WEST,DELHI,28.6955833,77.1901111
+Delhi Circle,DivReportingCircle,Delhi North Division,Haiderpur SO,110088,PO,Non Delivery,NORTH,DELHI,28.7246667,77.1469444
+Delhi Circle,DivReportingCircle,Delhi North Division,Jahangir Puri H Block SO,110033,PO,Non Delivery,NORTH,DELHI,28.7271389,77.1749722
+Delhi Circle,DivReportingCircle,Delhi North Division,Mangolpuri I  Block SO,110083,PO,Non Delivery,NORTH WEST,DELHI,28.7147778,77.0878333
+Delhi Circle,DivReportingCircle,Delhi North Division,Model Town II SO,110009,PO,Non Delivery,NORTH,DELHI,28.7062778,77.1897222
+Delhi Circle,DivReportingCircle,Delhi North Division,Pooth Kalan Resettlement SO,110086,PO,Non Delivery,NORTH WEST,DELHI,28.7014167,77.0796944
+Delhi Circle,DivReportingCircle,Delhi North Division,Prashant Vihar SO,110085,PO,Non Delivery,NORTH WEST,DELHI,28.7168889,77.1380556
+Delhi Circle,DivReportingCircle,Delhi North Division,Rohini sec11 SO,110085,PO,Non Delivery,NORTH WEST,DELHI,28.728826,77.106806
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Indraprastha HO,110002,HO,Delivery,CENTRAL,DELHI,28.6317778,77.24025
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Sarojini Nagar HO,110023,HO,Delivery,NEW DELHI,DELHI,28.5758333,77.1993611
+Delhi Circle,DivReportingCircle,New Delhi West Division,Naraina Industrial Estate H.O,110028,HO,Delivery,NEW DELHI,DELHI,28.632141,77.138852
+Delhi Circle,DivReportingCircle,New Delhi West Division,Dhansa S.O,110073,PO,Non Delivery,SOUTH WEST,DELHI,28.554485,76.865029
+Delhi Circle,DivReportingCircle,New Delhi West Division,Gopal Nagar SO,110043,PO,Non Delivery,SOUTH WEST,DELHI,28.612297,76.968627
+Delhi Circle,DivReportingCircle,New Delhi West Division,Durga Park PO,110043,PO,Non Delivery,SOUTH WEST,DELHI,28.602626,77.089702
+Delhi Circle,DivReportingCircle,Delhi GPO Division,Delhi GPO,110006,HO,Delivery,CENTRAL,DELHI,28.635313,77.224955
+Delhi Circle,DivReportingCircle,Delhi North Division,Malka Ganj SO,110007,PO,Delivery,CENTRAL,DELHI,28.6765833,77.2088333
+Delhi Circle,DivReportingCircle,Delhi North Division,Burari SO,110084,PO,Delivery,CENTRAL,DELHI,28.7572222,77.1977778
+Delhi Circle,DivReportingCircle,Delhi North Division,Delhi Sadar Bazar SO,110006,PO,Non Delivery,CENTRAL,DELHI,28.6579722,77.2144444
+Delhi Circle,DivReportingCircle,Delhi North Division,Wazirabad Village SO,110084,PO,Non Delivery,CENTRAL,DELHI,28.722239,77.221819
+Delhi Circle,DivReportingCircle,Delhi North Division,Aruna Nagar SO,110054,PO,Non Delivery,CENTRAL,DELHI,28.697557,77.225067
+Delhi Circle,DivReportingCircle,Delhi North Division,Civil Lines SO North Delhi,110054,PO,Delivery,CENTRAL,DELHI,28.6624167,77.2348333
+Delhi Circle,DivReportingCircle,Delhi North Division,District Courts SO North Delhi,110054,PO,Non Delivery,CENTRAL,DELHI,28.667094,77.216534
+Delhi Circle,DivReportingCircle,Delhi North Division,Timarpur SO,110054,PO,Non Delivery,CENTRAL,DELHI,28.7032778,77.2228611
+Delhi Circle,DivReportingCircle,New Delhi West Division,Chand Nagar S.O,110018,PO,Non Delivery,WEST,DELHI,28.6463611,77.0990556
+Delhi Circle,DivReportingCircle,New Delhi West Division,D.E.S.U. Colony S.O,110058,PO,Non Delivery,WEST,DELHI,28.6115,77.0970833
+Delhi Circle,DivReportingCircle,New Delhi West Division,ESI S.O,110015,PO,Non Delivery,WEST,DELHI,28.6591944,77.1315
+Delhi Circle,DivReportingCircle,New Delhi West Division,Khyala Phase   II S.O,110018,PO,Non Delivery,WEST,DELHI,28.6569167,77.10325
+Delhi Circle,DivReportingCircle,New Delhi West Division,Madipur Slum Quarter S.O,110063,PO,Non Delivery,WEST,DELHI,28.6667222,77.1190556
+Delhi Circle,DivReportingCircle,New Delhi West Division,Madipur Village S.O,110063,PO,Non Delivery,WEST,DELHI,28.6735833,77.1226111
+Delhi Circle,DivReportingCircle,New Delhi West Division,Punjabi Bagh Sec   III S.O,110026,PO,Non Delivery,WEST,DELHI,28.6198611,77.0975833
+Delhi Circle,DivReportingCircle,New Delhi West Division,Subhash Nagar S.O (West Delhi),110027,PO,Non Delivery,WEST,DELHI,28.640446,77.104918
+Delhi Circle,DivReportingCircle,New Delhi West Division,Tilak Nagar S.O (West Delhi),110018,PO,Delivery,WEST,DELHI,28.6498611,77.1306667
+Delhi Circle,DivReportingCircle,New Delhi West Division,Vikas Puri S.O,110018,PO,Non Delivery,WEST,DELHI,28.6396389,77.0761111
+Delhi Circle,DivReportingCircle,Delhi East Division,Nand Nagri A SO,110093,PO,Non Delivery,NORTH EAST,DELHI,28.6739166,77.2943611
+Delhi Circle,DivReportingCircle,Delhi East Division,Sonia Vihar SO,110090,PO,Non Delivery,NORTH EAST,DELHI,28.7262778,77.2476944
+Delhi Circle,DivReportingCircle,Delhi East Division,Yamuna Vihar SO,110053,PO,Non Delivery,NORTH EAST,DELHI,28.7006667,77.2776389
+Delhi Circle,DivReportingCircle,Delhi North Division,Delhi University SO,110007,PO,Non Delivery,NORTH,DELHI,28.68975,77.2152778
+Delhi Circle,DivReportingCircle,Delhi North Division,Gulabi Bagh SO,110007,PO,Non Delivery,NORTH WEST,DELHI,28.6736944,77.1918333
+Delhi Circle,DivReportingCircle,Delhi North Division,Kamla Nagar SO North Delhi,110007,PO,Non Delivery,NORTH,DELHI,28.680865,77.201
+Delhi Circle,DivReportingCircle,Delhi North Division,Anandvas Shakurpur SO,110034,PO,Non Delivery,NORTH WEST,DELHI,28.7061667,77.1483333
+Delhi Circle,DivReportingCircle,Delhi North Division,Badli SO North West Delhi,110042,PO,Non Delivery,NORTH WEST,DELHI,28.74469,77.145037
+Delhi Circle,DivReportingCircle,Delhi North Division,Bawana SO,110039,PO,Delivery,NORTH,DELHI,28.7996944,77.0380556
+Delhi Circle,DivReportingCircle,Delhi North Division,C4 Keshav Puram SO North West Delhi,110035,PO,Non Delivery,NORTH WEST,DELHI,28.691258,77.156291
+Delhi Circle,DivReportingCircle,Delhi North Division,Khera Kalan SO,110082,PO,Delivery,NORTH,DELHI,28.7721667,77.119
+Delhi Circle,DivReportingCircle,Delhi North Division,Mangolpuri N Block SO,110083,PO,Delivery,NORTH WEST,DELHI,28.6936667,77.09
+Delhi Circle,DivReportingCircle,Delhi North Division,Mangolpuri S Block SO,110083,PO,Non Delivery,NORTH WEST,DELHI,28.6904722,77.0822778
+Delhi Circle,DivReportingCircle,Delhi North Division,Model Town III SO,110009,PO,Non Delivery,NORTH,DELHI,28.7075278,77.1880556
+Delhi Circle,DivReportingCircle,Delhi North Division,Narela SO,110040,PO,Delivery,NORTH,DELHI,28.8508056,77.0880556
+Delhi Circle,DivReportingCircle,Delhi North Division,Nimri SO,110052,PO,Non Delivery,NORTH WEST,DELHI,28.6726389,77.1811111
+Delhi Circle,DivReportingCircle,Delhi North Division,Roop Nagar SO,110007,PO,Non Delivery,NORTH,DELHI,28.6766111,77.2088889
+Delhi Circle,DivReportingCircle,Delhi North Division,Adrash Nagar SO,110033,PO,Non Delivery,NORTH,DELHI,28.7164722,77.175
+Delhi Circle,DivReportingCircle,Delhi North Division,GTB Nagar SO,110009,PO,Delivery,NORTH,DELHI,28.698444,77.202111
+Delhi Circle,DivReportingCircle,Delhi North Division,HSSangh SO,110009,PO,Non Delivery,NORTH,DELHI,28.6984444,77.2021111
+Delhi Circle,DivReportingCircle,Delhi North Division,Maurya Enclave SO,110034,PO,Non Delivery,NORTH WEST,DELHI,28.7046667,77.1447222
+Delhi Circle,DivReportingCircle,Delhi North Division,Nirankari Colony SO,110009,PO,Non Delivery,NORTH,DELHI,28.71525,77.2044444
+Delhi Circle,DivReportingCircle,Delhi North Division,Power House SO,110035,PO,Non Delivery,NORTH WEST,DELHI,28.6738333,77.1445833
+Delhi Circle,DivReportingCircle,Delhi North Division,Rohini Courts SO,110085,PO,Non Delivery,NORTH WEST,DELHI,28.70775,77.132
+Delhi Circle,DivReportingCircle,Delhi North Division,Rohini Sector 15 SO,110089,PO,Delivery,NORTH WEST,DELHI,28.7348056,77.1325
+Delhi Circle,DivReportingCircle,Delhi East Division,Shahdara Mandi SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6699167,77.2888333
+Delhi Circle,DivReportingCircle,Delhi East Division,Distt Court KKD SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6546944,77.2973611
+Delhi Circle,DivReportingCircle,Delhi East Division,Kailash Nagar SO,110031,PO,Non Delivery,SHAHDARA,DELHI,28.6646111,77.2593611
+Delhi Circle,DivReportingCircle,Delhi East Division,Mandawali Fazalpur SO,110092,PO,Non Delivery,EAST,DELHI,28.627,77.2063333
+Delhi Circle,DivReportingCircle,Delhi East Division,Shakarpur SO,110092,PO,Non Delivery,EAST,DELHI,28.627,77.2850278
+Delhi Circle,DivReportingCircle,Delhi East Division,Rohtash Nagar SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6806111,77.2859444
+Delhi Circle,DivReportingCircle,Delhi East Division,Telewara SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6726389,77.2895
+Delhi Circle,DivReportingCircle,Delhi East Division,Gandhi Nagar Bazar SO,110031,PO,Non Delivery,SHAHDARA,DELHI,28.6606111,77.2664167
+Delhi Circle,DivReportingCircle,Delhi East Division,Geeta Colony SO,110031,PO,Non Delivery,SHAHDARA,DELHI,28.653,77.2741667
+Delhi Circle,DivReportingCircle,Delhi East Division,Nirman Vihar SO,110092,PO,Non Delivery,EAST,DELHI,28.635,77.2895556
+Delhi Circle,DivReportingCircle,Delhi East Division,Ram Nagar SO East Delhi,110051,PO,Non Delivery,EAST,DELHI,28.65925,77.2742222
+Delhi Circle,DivReportingCircle,Delhi East Division,Shastri Nagar SO East Delhi,110031,PO,Non Delivery,EAST,DELHI,28.69225,77.2742222
+Delhi Circle,DivReportingCircle,Delhi East Division,Trilok Puri SO,110091,PO,Non Delivery,EAST,DELHI,28.6138889,77.2935556
+Delhi Circle,DivReportingCircle,New Delhi West Division,GGSIP University S.O,110078,PO,Non Delivery,SOUTH WEST,DELHI,28.6330278,77.1366389
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Darya Ganj SO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6471667,77.2399444
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Gandhi Smarak Nidhi SO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6338611,77.2462222
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Supreme Court SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6212222,77.2380278
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Connaught Place SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6331389,77.2179444
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Election Commission SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6237778,77.2108611
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Lady Harding Medical College SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6348889,77.2145556
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Rail Bhawan SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6158611,77.2113889
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Rashtrapati Bhawan SO,110004,PO,Delivery,NEW DELHI,DELHI,28.6210833,77.1961389
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Secretariat North SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6178889,77.2019167
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Shastri Bhawan SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6164444,77.2154167
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Union Public Service Commission SO,110069,PO,Delivery,NEW DELHI,DELHI,28.6225833,77.2127222
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Master Prithvi Nath Marg SO,110005,PO,Non Delivery,CENTRAL,DELHI,28.6500278,77.1938333
+Delhi Circle,DivReportingCircle,New Delhi West Division,Ashoka Park Extn. S.O,110026,PO,Non Delivery,WEST,DELHI,28.6713889,77.1538333
+Delhi Circle,DivReportingCircle,New Delhi West Division,Janakpuri B 1 S.O,110058,PO,Delivery,WEST,DELHI,28.6498611,77.1306667
+Delhi Circle,DivReportingCircle,New Delhi West Division,Janakpuri C 4 S.O,110058,PO,Non Delivery,WEST,DELHI,28.6221111,77.0790556
+Delhi Circle,DivReportingCircle,New Delhi West Division,Karam Pura S.O,110015,PO,Non Delivery,WEST,DELHI,28.6645556,77.0786389
+Delhi Circle,DivReportingCircle,New Delhi West Division,Khyala Phase    I S.O,110018,PO,Non Delivery,WEST,DELHI,28.6576111,77.0999444
+Delhi Circle,DivReportingCircle,New Delhi West Division,M.B.S. Nagar S.O,110018,PO,Non Delivery,WEST,DELHI,28.6471389,77.0853056
+Delhi Circle,DivReportingCircle,Delhi North Division,Sant Nagar SO,110084,PO,Non Delivery,CENTRAL,DELHI,28.7572222,77.1977777
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Baroda House SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6174167,77.2129167
+Delhi Circle,DivReportingCircle,New Delhi Central Division,IPEstate SO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6274167,77.2435833
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Minto Road SO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6339722,77.2175556
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Pandara Road SO,110003,PO,Non Delivery,NEW DELHI,DELHI,28.6058889,77.2289722
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Inderpuri SO,110012,PO,Non Delivery,WEST,DELHI,28.6320278,77.1484167
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Patel Nagar South SO,110008,PO,Non Delivery,WEST,DELHI,28.64525,77.1656667
+Delhi Circle,DivReportingCircle,New Delhi West Division,Mahabir Nagar S.O,110018,PO,Non Delivery,WEST,DELHI,28.6346389,77.0860833
+Delhi Circle,DivReportingCircle,New Delhi West Division,Mansarover Garden S.O,110015,PO,Non Delivery,WEST,DELHI,28.6485278,77.1365
+Delhi Circle,DivReportingCircle,New Delhi West Division,Punjabi Bagh S.O,110026,PO,Delivery,WEST,DELHI,28.6678611,77.1434444
+Delhi Circle,DivReportingCircle,New Delhi West Division,Kunwar Singh Nagar PO,110041,PO,Non Delivery,WEST,DELHI,28.666829,77.049004
+Delhi Circle,DivReportingCircle,New Delhi West Division,K5 Extn. Mohan Garden,110059,PO,Non Delivery,WEST,DELHI,28.635437,77.043958
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Pragati Maidan SO,110001,PO,Non Delivery,CENTRAL,DELHI,28.61675,77.2934444
+Delhi Circle,DivReportingCircle,New Delhi Central Division,CAT EXTENSION COUNTER,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6174166,77.2129166
+Delhi Circle,DivReportingCircle,New Delhi Central Division,AGCR EXTENSION COUNTER,110002,PO,Non Delivery,CENTRAL,DELHI,28.6284722,77.2445555
+Delhi Circle,DivReportingCircle,New Delhi Central Division,NGT EXTENSION COUNTER,110001,PO,Non Delivery,NEW DELHI,DELHI,28.61,77.29
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Rouse Avenue Extension Counter SO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6352,77.2469
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Sansadiya Soudh SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6198611,77.2078333
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Udyog Bhawan SO,110011,PO,Non Delivery,NEW DELHI,DELHI,28.6111111,77.21275
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Anand Parbat SO,110005,PO,Non Delivery,CENTRAL,DELHI,28.65875,77.1773333
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Bhagat Singh Market SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6330556,77.2077222
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Karol Bagh SO,110005,PO,Delivery,CENTRAL,DELHI,28.6500278,77.1938333
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Pahar Ganj SO,110055,PO,Non Delivery,CENTRAL,DELHI,28.6401667,77.2129167
+Delhi Circle,DivReportingCircle,New Delhi GPO Division,RML EXTN COUNTER NDHO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.626806,77.20663
+Delhi Circle,DivReportingCircle,New Delhi South Division,Alaknanda SO,110019,PO,Non Delivery,South East,DELHI,28.5256389,77.2541667
+Delhi Circle,DivReportingCircle,New Delhi South Division,Air Force Station Tugalkabad SO,110080,PO,Non Delivery,SOUTH,DELHI,28.5100278,77.2542778
+Delhi Circle,DivReportingCircle,Delhi North Division,Rohini Sector 5 SO,110085,PO,Non Delivery,NORTH WEST,DELHI,28.71575,77.11
+Delhi Circle,DivReportingCircle,Delhi North Division,Rohini Sector7 SO,110085,PO,Delivery,NORTH WEST,DELHI,28.6933611,77.1713889
+Delhi Circle,DivReportingCircle,Delhi North Division,Sarai Rohilla SO,110035,PO,Non Delivery,NORTH WEST,DELHI,28.6694167,77.1763889
+Delhi Circle,DivReportingCircle,Delhi North Division,KIRARI SULEMAN NAGAR SO,110086,PO,Non Delivery,NORTH WEST,DELHI,28.69795,77.064361
+Delhi Circle,DivReportingCircle,Delhi North Division,Shahbad Dairy PO,110042,PO,Non Delivery,NORTH,DELHI,28.7414,77.0947
+Delhi Circle,DivReportingCircle,Delhi North Division,"Nodal Delivery Centre(Parcel), Rohini",110110,PO,Delivery,NORTH WEST,DELHI,28.7158,77.11
+Delhi Circle,DivReportingCircle,New Delhi South Division,Tugalkabad Railway Colony SO,110044,PO,Non Delivery,South East,DELHI,28.5049167,77.2891111
+Delhi Circle,DivReportingCircle,New Delhi South Division,Zakir Nagar SO,110025,PO,Non Delivery,South East,DELHI,28.5671667,77.2787778
+Delhi Circle,DivReportingCircle,New Delhi South Division,Aliganj SO South Delhi,110003,PO,Non Delivery,South East,DELHI,28.59,77.22
+Delhi Circle,DivReportingCircle,New Delhi South Division,Amar Colony SO,110024,PO,Non Delivery,South East,DELHI,28.5631667,77.24875
+Delhi Circle,DivReportingCircle,New Delhi South Division,Dargah Sharif SO,110013,PO,Non Delivery,South East,DELHI,28.5912222,77.2423333
+Delhi Circle,DivReportingCircle,New Delhi South Division,Gautam Nagar SO,110049,PO,Non Delivery,South East,DELHI,28.561709,77.211224
+Delhi Circle,DivReportingCircle,New Delhi South Division,Hari Nagar Ashram SO,110014,PO,Non Delivery,South East,DELHI,28.57,77.26
+Delhi Circle,DivReportingCircle,New Delhi South Division,New Delhi South ExtII SO,110049,PO,Non Delivery,South East,DELHI,28.566209,77.217965
+Delhi Circle,DivReportingCircle,New Delhi South Division,Pratap Market SO,110014,PO,Non Delivery,South East,DELHI,28.5829444,77.2520278
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sadiq Nagar SO,110049,PO,Non Delivery,South East,DELHI,28.5571944,77.2226667
+Delhi Circle,DivReportingCircle,New Delhi South Division,New Friends Colony SO,110025,PO,Delivery,SOUTH,DELHI,28.5618611,77.26825
+Delhi Circle,DivReportingCircle,New Delhi South Division,Pushpa Bhawan SO,110062,PO,Delivery,SOUTH,DELHI,28.5276111,77.2328056
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sarita Vihar SO,110076,PO,Delivery,SOUTH,DELHI,28.5348333,77.2911667
+Delhi Circle,DivReportingCircle,New Delhi South Division,Distt Court Complex Saket SO,110017,PO,Non Delivery,SOUTH,DELHI,28.528842,77.222557
+Delhi Circle,DivReportingCircle,New Delhi South Division,Jungpura SO,110014,PO,Delivery,SOUTH,DELHI,28.5838611,77.2431944
+Delhi Circle,DivReportingCircle,New Delhi South Division,Malviya Nagar SO South Delhi,110017,PO,Delivery,SOUTH,DELHI,28.537654,77.214682
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Delhi Cantt SO,110010,PO,Delivery,NEW DELHI,DELHI,28.5957222,77.1364444
+Delhi Circle,DivReportingCircle,New Delhi South West Division,IGI Airport SO,110037,PO,Non Delivery,NEW DELHI,DELHI,28.5556389,77.0845556
+Delhi Circle,DivReportingCircle,New Delhi South West Division,JNU SO,110067,PO,Delivery,NEW DELHI,DELHI,28.55075,77.1792778
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Moti Bagh SO,110021,PO,Non Delivery,NEW DELHI,DELHI,28.6139722,77.1256111
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Palam Airport SO,110037,PO,Non Delivery,NEW DELHI,DELHI,28.5745556,77.0975556
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Pinto Park SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.5750833,77.0971667
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Ansari Nagar SO,110029,PO,Non Delivery,SOUTH,DELHI,28.5649167,77.2068056
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Chattarpur SO,110074,PO,Delivery,SOUTH,DELHI,28.4696,77.1496
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Green Park Market SO,110016,PO,Non Delivery,SOUTH,DELHI,28.5558611,77.2021389
+Delhi Circle,DivReportingCircle,Delhi East Division,Brahampuri SO,110053,PO,Non Delivery,NORTH EAST,DELHI,28.6871944,77.2633056
+Delhi Circle,DivReportingCircle,Delhi East Division,Gokal Puri SO,110094,PO,Delivery,NORTH EAST,DELHI,28.7039444,77.2833056
+Delhi Circle,DivReportingCircle,Delhi East Division,Jagjit Nagar SO,110053,PO,Non Delivery,NORTH EAST,DELHI,28.6870833,77.2591111
+Delhi Circle,DivReportingCircle,Delhi East Division,Karawal Nagar SO,110090,PO,Delivery,NORTH EAST,DELHI,28.7259444,77.2726389
+Delhi Circle,DivReportingCircle,Delhi North Division,Saraswati Vihar SO,110034,PO,Delivery,NORTH WEST,DELHI,28.6972778,77.1269444
+Delhi Circle,DivReportingCircle,Delhi North Division,Shakurbasti Rs SO,110034,PO,Non Delivery,NORTH WEST,DELHI,28.6972778,77.1269444
+Delhi Circle,DivReportingCircle,Delhi North Division,Shastri Nagar SO North West Delhi,110052,PO,Non Delivery,NORTH,DELHI,28.670081,77.18125
+Delhi Circle,DivReportingCircle,Delhi North Division,Sultanpuri C Block SO,110086,PO,Delivery,NORTH WEST,DELHI,28.7016111,77.0797222
+Delhi Circle,DivReportingCircle,Delhi North Division,NARELA TOWN,110040,PO,Non Delivery,NORTH,DELHI,28.84,77.08
+Delhi Circle,DivReportingCircle,Delhi North Division,Satyawati Nagar SO,110052,PO,Non Delivery,NORTH,DELHI,28.6930833,77.1823056
+Delhi Circle,DivReportingCircle,Delhi North Division,Shakur Basti Depot SO,110056,PO,Delivery,NORTH WEST,DELHI,28.6827222,77.1111111
+Delhi Circle,DivReportingCircle,Delhi North Division,Shakur Pur I  Block SO,110034,PO,Non Delivery,NORTH WEST,DELHI,28.6899722,77.1466667
+Delhi Circle,DivReportingCircle,Delhi North Division,Shalimar Bagh SO North West Delhi,110088,PO,Delivery,NORTH,DELHI,28.6933611,77.1713889
+Delhi Circle,DivReportingCircle,Delhi North Division,Wazir Pur III SO,110052,PO,Non Delivery,NORTH,DELHI,28.67975,77.1721389
+Delhi Circle,DivReportingCircle,Delhi North Division,ROHINI SECTOR 23 SO,110099,PO,Delivery,NORTH WEST,DELHI,28.720596,77.080909
+Delhi Circle,DivReportingCircle,Delhi North Division,G T B Nagar extension SO,110009,PO,Non Delivery,NORTH,DELHI,28.698444,77.202111
+Delhi Circle,DivReportingCircle,Delhi North Division,Baratooti SO,110006,PO,Non Delivery,NORTH,DELHI,28.6594167,77.2130556
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Dada Ghosh Bhawan SO,110008,PO,Non Delivery,WEST,DELHI,28.6527778,77.1558889
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Multani Dhanda SO,110055,PO,Non Delivery,WEST,DELHI,28.6461111,77.2094167
+Delhi Circle,DivReportingCircle,New Delhi South Division,Badarpur SO South Delhi,110044,PO,Delivery,SOUTH,DELHI,28.5381667,77.2150278
+Delhi Circle,DivReportingCircle,Delhi East Division,Balbir Nagar SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6829444,77.2943611
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Delhi High Court SO,110003,PO,Non Delivery,NEW DELHI,DELHI,28.6092222,77.2359444
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Jama Masjid SO,110006,PO,Non Delivery,CENTRAL,DELHI,28.6502222,77.2322778
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Bengali Market SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6286944,77.2338611
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Janpath SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6433611,77.2009167
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Nirman Bhawan SO,110011,PO,Delivery,NEW DELHI,DELHI,28.6108611,77.2148611
+Delhi Circle,DivReportingCircle,New Delhi Central Division,South Avenue SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6105833,77.1986944
+Delhi Circle,DivReportingCircle,New Delhi Central Division,SRT NAGAR EXTENSION COUNTER,110055,PO,Non Delivery,CENTRAL,DELHI,28.6123,77.17
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Desh Bandhu Gupta Road SO,110005,PO,Non Delivery,CENTRAL,DELHI,28.6535556,77.1918333
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Sat Nagar SO,110005,PO,Non Delivery,CENTRAL,DELHI,28.6488333,77.1821111
+Delhi Circle,DivReportingCircle,New Delhi South Division,Chittranjan Park SO,110019,PO,Non Delivery,South East,DELHI,28.5403056,77.2486667
+Delhi Circle,DivReportingCircle,New Delhi West Division,Ashok Nagar S.O (West Delhi),110018,PO,Non Delivery,WEST,DELHI,28.636587,77.094466
+Delhi Circle,DivReportingCircle,New Delhi West Division,D. K. Mohan Garden S.O,110059,PO,Delivery,WEST,DELHI,28.6215,77.0415278
+Delhi Circle,DivReportingCircle,New Delhi West Division,Janta Market S.O,110027,PO,Non Delivery,WEST,DELHI,28.6426944,77.1232222
+Delhi Circle,DivReportingCircle,New Delhi West Division,Paschim Vihar B Block S.O,110063,PO,Non Delivery,WEST,DELHI,28.66325,77.1088056
+Delhi Circle,DivReportingCircle,New Delhi West Division,Rajouri Garden J 6 S.O,110027,PO,Non Delivery,WEST,DELHI,28.6427222,77.12325
+Delhi Circle,DivReportingCircle,New Delhi West Division,Rajouri Market S.O,110027,PO,Non Delivery,WEST,DELHI,28.6455278,77.1274722
+Delhi Circle,DivReportingCircle,New Delhi West Division,Tagore Garden S.O,110027,PO,Delivery,WEST,DELHI,28.6467222,77.1124722
+Delhi Circle,DivReportingCircle,New Delhi West Division,Tilak Nagar East S.O,110018,PO,Non Delivery,WEST,DELHI,28.6396667,77.0963333
+Delhi Circle,DivReportingCircle,New Delhi West Division,Zakhira S.O,110015,PO,Non Delivery,WEST,DELHI,28.6659722,77.1647778
+Delhi Circle,DivReportingCircle,New Delhi West Division,Sanjay Enclave PO,110059,PO,Non Delivery,WEST,DELHI,28.613029,77.059756
+Delhi Circle,DivReportingCircle,New Delhi West Division,Palam Extn (Harijan Basti) S.O,110077,PO,Non Delivery,SOUTH WEST,DELHI,28.587944,77.072276
+Delhi Circle,DivReportingCircle,New Delhi West Division,Palam Village S.O,110045,PO,Delivery,SOUTH WEST,DELHI,28.5911667,77.0905556
+Delhi Circle,DivReportingCircle,New Delhi West Division,Raj Nagar   II S.O,110077,PO,Delivery,SOUTH WEST,DELHI,28.5748056,77.0787222
+Delhi Circle,DivReportingCircle,Delhi North Division,Chawri Bazar SO,110006,PO,Non Delivery,CENTRAL,DELHI,28.6511389,77.2241667
+Delhi Circle,DivReportingCircle,Delhi North Division,Dareeba SO,110006,PO,Non Delivery,CENTRAL,DELHI,28.6557222,77.2335833
+Delhi Circle,DivReportingCircle,Delhi North Division,Samai Pur SO,110042,PO,Delivery,NORTH,DELHI,28.7441111,77.145
+Delhi Circle,DivReportingCircle,Delhi North Division,Sri Nagar Colony SO,110034,PO,Non Delivery,NORTH WEST,DELHI,28.6819167,77.1366667
+Delhi Circle,DivReportingCircle,Delhi North Division,Sultanpuri B Block SO,110086,PO,Non Delivery,NORTH WEST,DELHI,28.6963611,77.0764167
+Delhi Circle,DivReportingCircle,Delhi North Division,Sultanpuri F Block SO,110086,PO,Non Delivery,NORTH WEST,DELHI,28.6900278,77.0685833
+Delhi Circle,DivReportingCircle,Delhi North Division,Rohini Sector 16 PO,110085,PO,Non Delivery,NORTH WEST,DELHI,28.73545,77.117477
+Delhi Circle,DivReportingCircle,Delhi North Division,INDERLOK SO,110035,PO,Non Delivery,NORTH WEST,DELHI,28.67,77.18
+Delhi Circle,DivReportingCircle,Delhi North Division,Rohini Sector 15 extension So,110089,PO,Non Delivery,NORTH WEST,DELHI,28.7348055,77.1325
+Delhi Circle,DivReportingCircle,Delhi North Division,Chandni Chowk SO,110006,PO,Non Delivery,NORTH,DELHI,28.6564722,77.2247222
+Delhi Circle,DivReportingCircle,New Delhi West Division,SHYAM VIHAR S.O,110043,PO,Non Delivery,SOUTH WEST,DELHI,28.609974,76.957645
+Delhi Circle,DivReportingCircle,New Delhi West Division,Sagarpur S.O,110046,PO,Non Delivery,NEW DELHI,DELHI,28.6110556,77.1029167
+Delhi Circle,DivReportingCircle,New Delhi West Division,Ujwa S.O,110073,PO,Delivery,SOUTH WEST,DELHI,28.5709444,76.9076944
+Delhi Circle,DivReportingCircle,New Delhi West Division,Arjun Park PO,110043,PO,Non Delivery,SOUTH WEST,DELHI,28.622224,77.011825
+Delhi Circle,DivReportingCircle,New Delhi West Division,Mahavir Enclave,110045,PO,Non Delivery,SOUTH WEST,DELHI,28.596462,77.08081
+Delhi Circle,DivReportingCircle,New Delhi South West Division,A F Rajokari SO,110038,PO,Delivery,NEW DELHI,DELHI,28.5193889,77.1498056
+Delhi Circle,DivReportingCircle,New Delhi South West Division,JNU New Campus SO,110067,PO,Non Delivery,NEW DELHI,DELHI,28.5393611,77.1635
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Kapashera SO,110097,PO,Delivery,SOUTH WEST,DELHI,28.5249456,77.0710038
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Kirby Place SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.5956944,77.1363889
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Laxmi Bai Nagar SO,110023,PO,Non Delivery,NEW DELHI,DELHI,28.5784167,77.20925
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Nanak Pura SO,110021,PO,Non Delivery,NEW DELHI,DELHI,28.5807778,77.1727222
+Delhi Circle,DivReportingCircle,New Delhi Central Division,AGCR SO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6284722,77.2445556
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Ajmeri Gate Extn SO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6445,77.2231389
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Hauz Qazi SO,110006,PO,Non Delivery,CENTRAL,DELHI,28.6498056,77.2263333
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Delhi High Court Extension Counter SO,110003,PO,Non Delivery,NEW DELHI,DELHI,28.6317778,77.24025
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Civic Centre PO,110002,PO,Non Delivery,CENTRAL,DELHI,28.6411,77.2272
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Krishi Bhawan SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6159444,77.213
+Delhi Circle,DivReportingCircle,New Delhi Central Division,North Avenue SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.631,77.2214722
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Parliament House SO,110001,PO,Non Delivery,NEW DELHI,DELHI,28.6165,77.2009722
+Delhi Circle,DivReportingCircle,New Delhi Central Division,AKMarket SO,110055,PO,Non Delivery,CENTRAL,DELHI,28.6448889,77.2020556
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Anand Parbat Indl Area SO,110005,PO,Non Delivery,CENTRAL,DELHI,28.6614722,77.1780556
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Guru Gobind Singh Marg SO,110005,PO,Non Delivery,CENTRAL,DELHI,28.6556667,77.199
+Delhi Circle,DivReportingCircle,New Delhi South Division,Dakshinpuri PhaseII SO,110062,PO,Non Delivery,SOUTH,DELHI,28.5201111,77.23975
+Delhi Circle,DivReportingCircle,New Delhi South Division,Dakshinpuri PhaseIII SO,110062,PO,Non Delivery,SOUTH,DELHI,28.5155278,77.2374722
+Delhi Circle,DivReportingCircle,New Delhi South Division,Okhla Industrial Area Phasei SO,110020,PO,Non Delivery,South East,DELHI,28.543282,77.257845
+Delhi Circle,DivReportingCircle,New Delhi South Division,Defence Colony SO South Delhi,110024,PO,Non Delivery,South East,DELHI,28.58,77.23
+Delhi Circle,DivReportingCircle,New Delhi South Division,East Of Kailash PhaseI SO,110065,PO,Non Delivery,South East,DELHI,28.5593611,77.2568056
+Delhi Circle,DivReportingCircle,New Delhi South Division,Golf Links SO,110003,PO,Non Delivery,South East,DELHI,28.58725,77.2300833
+Delhi Circle,DivReportingCircle,New Delhi South Division,Nehru Nagar SO South Delhi,110065,PO,Non Delivery,South East,DELHI,28.569126,77.253601
+Delhi Circle,DivReportingCircle,New Delhi South Division,Safdarjung Air Port SO,110003,PO,Non Delivery,South East,DELHI,28.5859167,77.2095556
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sant Nagar SO South Delhi,110065,PO,Non Delivery,South East,DELHI,28.554003,77.24903
+Delhi Circle,DivReportingCircle,New Delhi Central Division,IARI SO,110012,PO,Delivery,WEST,DELHI,28.6401944,77.1659722
+Delhi Circle,DivReportingCircle,New Delhi Central Division,National Physical Laboratory SO,110012,PO,Non Delivery,WEST,DELHI,28.6368611,77.1696111
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Patel Nagar SO Central Delhi,110008,PO,Delivery,WEST,DELHI,28.6225833,77.2127222
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Patel Nagar West SO,110008,PO,Non Delivery,WEST,DELHI,28.6472222,77.16975
+Delhi Circle,DivReportingCircle,Delhi East Division,Bhola Nath Nagar SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6546944,77.2973611
+Delhi Circle,DivReportingCircle,Delhi East Division,Goverdhan Bihari Colony SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6715278,77.2831111
+Delhi Circle,DivReportingCircle,Delhi East Division,Man Sarovar Park SO,110032,PO,Non Delivery,SHAHDARA,DELHI,28.6774167,77.2990833
+Delhi Circle,DivReportingCircle,New Delhi West Division,Fateh Nagar S.O,110018,PO,Non Delivery,WEST,DELHI,28.6333056,77.0996944
+Delhi Circle,DivReportingCircle,New Delhi West Division,Hari Nagar BE Block S.O,110064,PO,Non Delivery,WEST,DELHI,28.6287778,77.1226111
+Delhi Circle,DivReportingCircle,New Delhi West Division,Hari Nagar Dadb Block S.O,110064,PO,Non Delivery,WEST,DELHI,28.6234444,77.1076111
+Delhi Circle,DivReportingCircle,New Delhi West Division,Hari Nagar S.O (West Delhi),110064,PO,Non Delivery,WEST,DELHI,28.62486,77.110868
+Delhi Circle,DivReportingCircle,New Delhi West Division,Jail Road S.O (West Delhi),110058,PO,Non Delivery,WEST,DELHI,28.636095,77.096574
+Delhi Circle,DivReportingCircle,New Delhi West Division,Janakpuri A 3 S.O,110058,PO,Non Delivery,WEST,DELHI,28.6241111,77.0793611
+Delhi Circle,DivReportingCircle,New Delhi West Division,Jwala Puri S.O,110087,PO,Non Delivery,WEST,DELHI,28.6800278,77.07875
+Delhi Circle,DivReportingCircle,New Delhi West Division,L. M. Nagar Indl. Area S.O,110015,PO,Non Delivery,WEST,DELHI,28.6541389,77.1356389
+Delhi Circle,DivReportingCircle,New Delhi West Division,Nangloi   III S.O,110041,PO,Non Delivery,WEST,DELHI,28.6829722,77.0718056
+Delhi Circle,DivReportingCircle,New Delhi West Division,Nangloi S.O,110041,PO,Delivery,WEST,DELHI,28.6795833,77.0660556
+Delhi Circle,DivReportingCircle,New Delhi West Division,Paschim Vihar S.O,110063,PO,Delivery,WEST,DELHI,28.6705278,77.1022222
+Delhi Circle,DivReportingCircle,New Delhi West Division,Shivaji Park S.O (West Delhi),110026,PO,Non Delivery,WEST,DELHI,28.673232,77.131978
+Delhi Circle,DivReportingCircle,New Delhi West Division,Subhash Nagar West S.O,110027,PO,Non Delivery,WEST,DELHI,28.6371111,77.1098889
+Delhi Circle,DivReportingCircle,New Delhi West Division,Sunder Vihar S.O,110087,PO,Delivery,WEST,DELHI,28.6663889,77.0881667
+Delhi Circle,DivReportingCircle,New Delhi West Division,Vishnu Garden S.O,110018,PO,Non Delivery,WEST,DELHI,28.6573333,77.1083611
+Delhi Circle,DivReportingCircle,New Delhi West Division,Moti Nagar S.O,110015,PO,Non Delivery,WEST,DELHI,28.662345,77.141081
+Delhi Circle,DivReportingCircle,Delhi East Division,Housing Complex Loni Road SO,110093,PO,Non Delivery,NORTH EAST,DELHI,28.69525,77.2953333
+Delhi Circle,DivReportingCircle,New Delhi South Division,Jamia Nagar SO,110025,PO,Non Delivery,South East,DELHI,28.5613611,77.2795833
+Delhi Circle,DivReportingCircle,New Delhi South Division,Kailash Colony SO,110048,PO,Non Delivery,South East,DELHI,28.5471667,77.2438056
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sukhdev Vihar SO,110025,PO,Non Delivery,South East,DELHI,28.5561944,77.2783056
+Delhi Circle,DivReportingCircle,New Delhi South West Division,A F Palam SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.5778333,77.1221667
+Delhi Circle,DivReportingCircle,New Delhi South West Division,CVD SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.5988889,77.1085833
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sect1 SO,110022,PO,Non Delivery,NEW DELHI,DELHI,28.5615556,77.1792222
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sect3 SO,110022,PO,Non Delivery,NEW DELHI,DELHI,28.5551111,77.1717778
+Delhi Circle,DivReportingCircle,New Delhi South Division,East Of Kailash SO,110065,PO,Non Delivery,South East,DELHI,28.5579444,77.2459722
+Delhi Circle,DivReportingCircle,New Delhi South Division,Gulmohar Park SO,110049,PO,Non Delivery,South East,DELHI,28.5578611,77.2131944
+Delhi Circle,DivReportingCircle,New Delhi South Division,Krishna Market SO,110024,PO,Non Delivery,South East,DELHI,28.5740556,77.242309
+Delhi Circle,DivReportingCircle,New Delhi South Division,Pragati Vihar SO,110003,PO,Non Delivery,South East,DELHI,28.5868333,77.2309444
+Delhi Circle,DivReportingCircle,New Delhi South Division,Greater Kailash SO,110048,PO,Delivery,SOUTH,DELHI,28.5376667,77.2381389
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sangam Vihar SO,110080,PO,Delivery,SOUTH,DELHI,28.5,77.24
+Delhi Circle,DivReportingCircle,New Delhi South Division,Lajpat Nagar South Delhi SO,110024,PO,Delivery,SOUTH,DELHI,28.5381667,77.2150278
+Delhi Circle,DivReportingCircle,New Delhi South Division,MMTCSTC Colony SO,110017,PO,Non Delivery,SOUTH,DELHI,28.5346389,77.2016944
+Delhi Circle,DivReportingCircle,New Delhi South Division,Panchsheel Enclave SO,110017,PO,Non Delivery,SOUTH,DELHI,28.544134,77.228442
+Delhi Circle,DivReportingCircle,New Delhi South Division,Pushp Vihar SO,110017,PO,Non Delivery,SOUTH,DELHI,28.5245556,77.2204444
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Rajender Nagar SO,110060,PO,Delivery,CENTRAL,DELHI,28.6367222,77.1831111
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Swami Ram Tirth Nagar SO,110055,PO,Delivery,CENTRAL,DELHI,28.6460833,77.2025278
+Delhi Circle,DivReportingCircle,New Delhi South Division,F F C Okhla SO,110020,PO,Non Delivery,South East,DELHI,28.5577222,77.2648333
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Sect12 SO,110022,PO,Non Delivery,NEW DELHI,DELHI,28.5722222,77.1732778
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Hauz Khas SO,110016,PO,Delivery,SOUTH,DELHI,28.5489444,77.2073056
+Delhi Circle,DivReportingCircle,New Delhi South West Division,IT Hauz Khas SO,110016,PO,Non Delivery,SOUTH,DELHI,28.5428611,77.1960278
+Delhi Circle,DivReportingCircle,New Delhi South West Division,NIE Campus SO,110016,PO,Non Delivery,SOUTH,DELHI,28.5380278,77.1935833
+Delhi Circle,DivReportingCircle,Delhi East Division,Bhajan Pura SO,110053,PO,Non Delivery,NORTH EAST,DELHI,28.7020833,77.26425
+Delhi Circle,DivReportingCircle,Delhi East Division,Jafrabad SO East Delhi,110053,PO,Non Delivery,NORTH EAST,DELHI,28.6739166,77.2943611
+Delhi Circle,DivReportingCircle,New Delhi South Division,BSF Camp Tigri SO,110080,PO,Non Delivery,SOUTH,DELHI,28.5105278,77.2424167
+Delhi Circle,DivReportingCircle,New Delhi South Division,Dakshinpuri PhaseI SO,110062,PO,Non Delivery,SOUTH,DELHI,28.5227222,77.2404444
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Patel Nagar East SO,110008,PO,Non Delivery,WEST,DELHI,28.6453611,77.1729722
+Delhi Circle,DivReportingCircle,New Delhi South Division,Hazrat Nizamuddin SO,110013,PO,Delivery,SOUTH,DELHI,28.58775,77.2505833
+Delhi Circle,DivReportingCircle,New Delhi South Division,Saket SO South Delhi,110017,PO,Non Delivery,SOUTH,DELHI,28.522984,77.21452
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sarvodya Enclave SO,110017,PO,Non Delivery,SOUTH,DELHI,28.54,77.2000833
+Delhi Circle,DivReportingCircle,New Delhi South Division,Sriniwaspuri SO,110065,PO,Delivery,SOUTH,DELHI,28.5646944,77.2555833
+Delhi Circle,DivReportingCircle,New Delhi South Division,Masjid Moth SO,110048,PO,Non Delivery,South East,DELHI,28.5404722,77.2346667
+Delhi Circle,DivReportingCircle,New Delhi South Division,C G O Complex SO,110003,PO,Non Delivery,South East,DELHI,28.5889167,77.2442778
+Delhi Circle,DivReportingCircle,New Delhi South Division,Kasturba Nagar SO South Delhi,110003,PO,Non Delivery,South East,DELHI,28.576544,77.224654
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Arjungarh SO,110047,PO,Delivery,SOUTH,DELHI,28.4797778,77.1179444
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Hauz Khas Market SO,110016,PO,Non Delivery,SOUTH,DELHI,28.5512222,77.2081667
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Nauroji Nagar SO,110029,PO,Non Delivery,SOUTH,DELHI,28.5685556,77.1956944
+Delhi Circle,DivReportingCircle,New Delhi South West Division,505 A B Workshop SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.6147778,77.1785833
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Anand Niketan SO,110021,PO,Non Delivery,NEW DELHI,DELHI,28.5787222,77.1648889
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Chanakya Puri SO,110021,PO,Delivery,NEW DELHI,DELHI,28.5943889,77.1862778
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Dhaula Kuan SO,110010,PO,Non Delivery,NEW DELHI,DELHI,28.6014167,77.1620278
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Gurgaon Road SO,110037,PO,Delivery,NEW DELHI,DELHI,28.5302778,77.1155278
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Kidwai Nagar East SO,110023,PO,Non Delivery,NEW DELHI,DELHI,28.5719444,77.2176944
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Kidwai Nagar West SO,110023,PO,Non Delivery,NEW DELHI,DELHI,28.5712778,77.2051667
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Malcha Marg SO,110021,PO,Non Delivery,NEW DELHI,DELHI,28.6040833,77.18725
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Munirka SO,110067,PO,Non Delivery,NEW DELHI,DELHI,28.5550833,77.1762222
+Delhi Circle,DivReportingCircle,New Delhi South West Division,R K Puram Main SO,110066,PO,Delivery,NEW DELHI,DELHI,28.5598056,77.1765278
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Ignou SO,110068,PO,Delivery,SOUTH,DELHI,28.5012222,77.2003056
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Mehrauli SO,110030,PO,Delivery,SOUTH,DELHI,28.5176111,77.1793611
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Paryavaran Complex SO,110030,PO,Non Delivery,SOUTH,DELHI,28.5174444,77.2055278
+Delhi Circle,DivReportingCircle,New Delhi South Division,Hamdard Nagar SO,110062,PO,Non Delivery,SOUTH,DELHI,28.5125556,77.2510556
+Delhi Circle,DivReportingCircle,New Delhi South Division,Okhla Industrial Estate SO,110020,PO,Delivery,SOUTH,DELHI,28.5521111,77.2686667
+Delhi Circle,DivReportingCircle,New Delhi South Division,Talimabad SO,110080,PO,Non Delivery,SOUTH,DELHI,28.5037778,77.2499444
+Delhi Circle,DivReportingCircle,New Delhi South Division,Andrewsganj SO,110049,PO,Delivery,SOUTH,DELHI,28.5640278,77.2324167
+Delhi Circle,DivReportingCircle,New Delhi South Division,South Malviya Nagar SO,110017,PO,Non Delivery,SOUTH,DELHI,28.522982,77.214514
