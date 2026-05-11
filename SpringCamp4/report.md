@@ -146,7 +146,7 @@ Finally 64 dim ->8 classes so  8:1 ratio of representation is present.
 | | | |
 | **Total params** | | **365,592** |
 
----
+
 
 ### 5.2 Training
 
@@ -156,7 +156,6 @@ Finally 64 dim ->8 classes so  8:1 ratio of representation is present.
 - Best checkpoint saved by validation loss
 
 ---
-
 ## 6. Text GRU
 
 ### 6.1 Limitations
@@ -242,8 +241,6 @@ With the text considerations in mind I only did Late Fusion as Early Fusion didn
 ![img](<conf_mat.png>)
 
 ### Per-class Precision, Recall, F1
-
-**Per-class Precision, Recall, F1**
 
 | Emotion | CNN P | Fusion(avg) P | Fusion(wt) P | GRU P | CNN R | Fusion(avg) R | Fusion(wt) R | GRU R | CNN F1 | Fusion(avg) F1 | Fusion(wt) F1 | GRU F1 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
