@@ -164,8 +164,7 @@ Finally 64 dim ->8 classes so  8:1 ratio of representation is present.
 
 ### 6.2 Transcription - Whisper
 
-Whisper is an encoder-decoder transformer trained on 680k hours of speech. The encoder processes the mel spectrogram through self-attention layers to produce context-aware frame representations. The decoder generates the transcript - at each step it attends to the encoder output via cross-attention and to previously generated tokens via masked self-attention.
-
+Whisper is an encoder-decoder transformer.
 The `tiny` variant (39M parameters) is used.
 
 ### 6.3 Tokenisation
